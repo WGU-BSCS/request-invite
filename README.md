@@ -12,14 +12,15 @@ Hi! Happy to have you here! Start here to receive an invitiation to the unoffici
 * Current and alumni WGU BSCS Students. It is required you provide your wgu student email address to join.  
 
 ## How to Request to be invited to the unofficial WGU BSCS Organizaiton:
-* Clone this repository
+* Fork this repository
 * Add your name and WGU email address to the [email-list.md](https://github.com/WGU-BSCS/request-invite/blob/master/email-list.md) file.
-* Push the changes
-* Create a pull request
+* Add, Commit, and Push the changes
+* Create a Pull Request
 * Wait for the invitation
 * Accept the invitation
 * Start creating and/or contributing
 * BEGINNERS: 
     1. See the [how-to/git.md](https://github.com/WGU-BSCS/how-to/blob/master/git.md). 
+    2. [Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 
 
