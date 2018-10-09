@@ -11,7 +11,7 @@ Hi! Happy to have you here! Start here to receive an invitiation to the unoffici
 ## Who can join?
 * Current and alumni WGU BSCS Students. It is required you provide your wgu student email address to join.  
 
-## How to Request to be invited to the unofficial WGU BSCS Organizaiton:
+## How to Request an invitation to the WGU BSCS Organizaiton (unofficial):
 * Fork this repository
 * Add your name and WGU email address to the [email-list.md](https://github.com/WGU-BSCS/request-invite/blob/master/email-list.md) file.
 * Add, Commit, and Push the changes
