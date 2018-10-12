@@ -3,3 +3,4 @@
 * Vera Butler *WGU*: vbutle5@wgu.edu *GitHub*: verabutlerdesign@gmail.com 
 * Derek Martin *WGU*: dmart60@wgu.edu
 * Joseph Schell *WGU*: jsche16@wgu.edu *GitHub*: JosephSchell510@gmail.com
+* Kyle Dacones *WGU*: kterhu4@wgu.edu *GitHub*: kly35@gmail.com
