@@ -6,3 +6,4 @@
 * Kyle Dacones *WGU*: kterhu4@wgu.edu *GitHub*: kly35@gmail.com
 * Hosea Gibson *WGU*: hgibs13@wgu.edu
 * Chris Gonzalez *WGU*: cgon209@wgu.edu *GitHub*: cmgonza89@gmail.com
+* Aaron Thummel *WGU*: athumme@wgu.edu *GitHub*: athumme@wgu.edu
