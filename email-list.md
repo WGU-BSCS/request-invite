@@ -8,3 +8,4 @@
 * Chris Gonzalez *WGU*: cgon209@wgu.edu *GitHub*: cmgonza89@gmail.com
 * Aaron Thummel *WGU*: athumme@wgu.edu *GitHub*: athumme@wgu.edu
 * Tristan Gray *WGU*: tgray81@wgu.edu *GitHub*: tristansladegray@gmail.com
+* Roy Santos *WGU*: rsant67@wgu.edu *GitHub*: roysantos112@gmail.com
