@@ -9,3 +9,7 @@
 * Aaron Thummel *WGU*: athumme@wgu.edu *GitHub*: athumme@wgu.edu
 * Tristan Gray *WGU*: tgray81@wgu.edu *GitHub*: tristansladegray@gmail.com
 * Phillip Mai *WGU*: pmai2@wgu.edu
+* Roy Santos *WGU*: rsant67@wgu.edu *GitHub*: roysantos112@gmail.com
+* Cecilia Constantine *WGU*: cmcclod@wgu.edu *GitHub*: ceciliaconsta3@gmail.com
+* Paul Baker *WGU*: pbake22@wgu.edu *GitHub*: paul.nelson.baker@gmail.com
+* Beau Jones *WGU*: bjon223@wgu.edu *GitHub*: beau7jones@gmail.com
