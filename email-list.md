@@ -11,4 +11,6 @@
 * Roy Santos *WGU*: rsant67@wgu.edu *GitHub*: roysantos112@gmail.com
 * Cecilia Constantine *WGU*: cmcclod@wgu.edu *GitHub*: ceciliaconsta3@gmail.com
 * Paul Baker *WGU*: pbake22@wgu.edu *GitHub*: paul.nelson.baker@gmail.com
+* Danny Seng *WGU*: dseng1@wgu.edu *GitHub*: dseng13@gmail.com
 * Beau Jones *WGU*: bjon223@wgu.edu *GitHub*: beau7jones@gmail.com
+
