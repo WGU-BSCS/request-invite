@@ -14,4 +14,4 @@
 * Paul Baker *WGU*: pbake22@wgu.edu *GitHub*: paul.nelson.baker@gmail.com
 * Danny Seng *WGU*: dseng1@wgu.edu *GitHub*: dseng13@gmail.com
 * Beau Jones *WGU*: bjon223@wgu.edu *GitHub*: beau7jones@gmail.com
-
+* Jamie Berry *WGU*: jber159@wgu.edu
